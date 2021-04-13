@@ -1,0 +1,13 @@
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.csprojAssemblyReference.cache
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.AssemblyInfoInputs.cache
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.AssemblyInfo.cs
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.exe
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.deps.json
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.runtimeconfig.json
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.runtimeconfig.dev.json
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.dll
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.pdb
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.dll
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.pdb
+C:\Users\anton\repos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.genruntimeconfig.cache
